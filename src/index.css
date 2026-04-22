@@ -1,0 +1,19 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background: #f9fafb;
+  color: #111827;
+}
+
+/* SaaS container standard */
+.section {
+  @apply py-24 px-6 max-w-6xl mx-auto;
+}
+
+/* SaaS card standard */
+.card {
+  @apply bg-white border border-gray-100 rounded-2xl shadow-sm hover:shadow-lg transition;
+}
