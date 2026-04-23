@@ -1,15 +1,15 @@
 export default function Projects() {
   const projects = [
     {
-      title: "SaaS Landing Page",
+      title: "Modern Landing Page with SaaS feel",
       description:
-        "High-converting landing page designed for a modern SaaS product with clear CTA flow and responsive layout.",
+        "High-converting modernlanding page designed for a modern SaaS product with clear CTA flow and responsive layout.",
       problem: "Client needed better conversion and modern UI.",
       solution:
-        "Built a clean React + Tailwind landing page with structured sections and CTA optimization.",
+        "Built a clean React + Tailwind modern landing page with structured sections and CTA optimization.",
       result: "Improved clarity, engagement, and user flow.",
       tech: ["React", "Tailwind", "UI/UX"],
-      live: "#",
+      live: "https://marvelous-mermaid-e18c93.netlify.app/",
       github: "https://github.com/waleowootori/Landing-page.git",
     },
     {
@@ -21,8 +21,8 @@ export default function Projects() {
         "Built a modern responsive portfolio with case study structure and smooth UI flow.",
       result: "Improved professional presence and credibility.",
       tech: ["React", "CSS", "Netlify"],
-      live: "#",
-      github: "#",
+      live: "https://waleowootori.netlify.app/",
+      github: "https://github.com/waleowootori/portfolio-website.git",
     },
   ];
 

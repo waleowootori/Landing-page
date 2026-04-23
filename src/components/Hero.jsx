@@ -13,8 +13,8 @@ export default function Hero() {
       </h1>
 
       <p className="text-gray-600 max-w-xl mx-auto mb-8">
-        I’m Wale Owootori — I design and build clean, scalable web interfaces
-        for businesses and startups.
+        I’m Wale Owootori — I help startups build fast, modern,
+        conversion-focused web apps that perform well across all devices.
       </p>
 
       <div className="flex justify-center gap-4">

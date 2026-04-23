@@ -4,7 +4,8 @@ export default function CTA() {
       <h2 className="text-4xl font-bold mb-4">Let’s Work Together</h2>
 
       <p className="text-gray-600 mb-8">
-        Available for freelance projects and remote opportunities.
+        Available for freelance projects — React, UI/UX focused developer and
+        remote opportunities.
       </p>
 
       <a
